@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>Welcome to the Skills Exchange Platform</h1>
+
+<p>Find people with skills or offer your skills to others!</p>
+
+<div>
+    <h2>Search for People with Skills</h2>
+    <form asp-action="Search" asp-controller="Skill" method="get">
+        <input type="text" name="skill" placeholder="Enter skill" required>
+        <button type="submit">Search</button>
+    </form>
+</div>
+
+<div>
+    <h2>Offer Your Skills</h2>
+    <a asp-action="Offer" asp-controller="Skill">Offer Your Skills</a>
+</div>
+
+<div>
+    <h2>Profile</h2>
+    <a asp-action="Profile" asp-controller="User">View/Edit Your Profile</a>
+</div>
+
