@@ -11,6 +11,14 @@
       "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\offer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\webapplication2\\webapplication2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\webapplication2\\webapplication2\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|b:\\github\\fuskill\\webapplication2\\webaplication2.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|solutionrelative:webaplication2.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,14 +51,6 @@
       "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\webapplication2\\webapplication2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\webapplication2\\webapplication2\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\webapplication2\\webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -66,7 +66,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Data\\Entities\\User.cs",
               "RelativeDocumentMoniker": "WebAplication2.Data\\Entities\\User.cs",
@@ -79,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
@@ -105,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "Profile.cshtml",
               "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Profile.cshtml",
               "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Profile.cshtml",
@@ -113,7 +113,8 @@
               "RelativeToolTip": "WebApplication2\\Views\\Home\\Profile.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T17:18:32.572Z"
+              "WhenOpened": "2024-03-07T17:18:32.572Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -129,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Skill.cs",
               "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Models\\Skill.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Models\\Skill.cs",
@@ -142,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Login.cshtml",
               "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Login.cshtml",
@@ -155,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Search.cshtml",
               "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Search.cshtml",
               "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Search.cshtml",
@@ -172,16 +173,16 @@
               "Title": "Register.cshtml",
               "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Register.cshtml",
               "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Register.cshtml",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Register.cshtml*",
-              "RelativeToolTip": "WebApplication2\\Views\\Home\\Register.cshtml*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-07T16:54:34.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Privacy.cshtml",
@@ -189,11 +190,12 @@
               "RelativeToolTip": "WebApplication2\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T16:52:36.99Z"
+              "WhenOpened": "2024-03-07T16:52:36.99Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "UserSkill.cs",
               "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Models\\UserSkill.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Models\\UserSkill.cs",
@@ -206,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Models\\User.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Models\\User.cs",
@@ -219,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
