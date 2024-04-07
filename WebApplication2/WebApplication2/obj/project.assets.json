@@ -8549,11 +8549,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "projectUniqueName": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
       "projectName": "WebApplication2",
-      "projectPath": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "projectPath": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
       "packagesPath": "C:\\Users\\rodio\\.nuget\\packages\\",
-      "outputPath": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\obj\\",
+      "outputPath": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8575,11 +8575,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Data\\WebAplication2.Data.csproj": {
-              "projectPath": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Data\\WebAplication2.Data.csproj"
+            "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebAplication2.Data\\WebAplication2.Data.csproj": {
+              "projectPath": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebAplication2.Data\\WebAplication2.Data.csproj"
             },
-            "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Services\\WebAplication2.Services.csproj": {
-              "projectPath": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Services\\WebAplication2.Services.csproj"
+            "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebAplication2.Services\\WebAplication2.Services.csproj": {
+              "projectPath": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebAplication2.Services\\WebAplication2.Services.csproj"
             }
           }
         }

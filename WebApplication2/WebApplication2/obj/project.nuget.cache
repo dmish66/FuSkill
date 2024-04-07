@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SsWWSZhHpNsveJBLCQhwpoEB4TcRLSlTOjXXBAFYvHvzlYVb5sh54p+DKzuQrWWkqU58qxk9+on7wQpREeXmzQ==",
+  "dgSpecHash": "7LsXbVFXY7hZGYgaBcANY5p9oJBy3OClxatnhTfhYvrzG7tAbX4OSWxxuws3CBG6JROujA1D8hFxTsKqUwKTAQ==",
   "success": true,
-  "projectFilePath": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "projectFilePath": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rodio\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\rodio\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -1,113 +1,89 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "B:\\GitHub\\FuSkill\\WebApplication2\\",
+  "WorkspaceRootPath": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\webapplication2\\webapplication2\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\webapplication2\\webapplication2\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\webapplication2\\webapplication2\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\webapplication2\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52311649-341B-4601-B1C9-E1611AAC29AE}|WebAplication2.Services\\WebAplication2.Services.csproj|b:\\github\\fuskill\\webapplication2\\webaplication2.services\\dtos\\projectsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52311649-341B-4601-B1C9-E1611AAC29AE}|WebAplication2.Services\\WebAplication2.Services.csproj|solutionrelative:webaplication2.services\\dtos\\projectsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52311649-341B-4601-B1C9-E1611AAC29AE}|WebAplication2.Services\\WebAplication2.Services.csproj|b:\\github\\fuskill\\webapplication2\\webaplication2.services\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52311649-341B-4601-B1C9-E1611AAC29AE}|WebAplication2.Services\\WebAplication2.Services.csproj|solutionrelative:webaplication2.services\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|b:\\github\\fuskill\\webapplication2\\webaplication2.data\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|solutionrelative:webaplication2.data\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|b:\\github\\fuskill\\webapplication2\\webaplication2.data\\entities\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|solutionrelative:webaplication2.data\\entities\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|b:\\github\\fuskill\\webapplication2\\webaplication2.data\\entities\\abstractions\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|solutionrelative:webaplication2.data\\entities\\abstractions\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|b:\\github\\fuskill\\webapplication2\\webaplication2.data\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|solutionrelative:webaplication2.data\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\webapplication2\\webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\webapplication2\\webapplication2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\webapplication2\\webapplication2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\webapplication2\\webapplication2\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\webapplication2\\webapplication2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\webapplication2\\webapplication2\\views\\home\\offer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\offer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\webapplication2\\webapplication2\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\webapplication2\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\fuskill\\webapplication2\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|b:\\github\\fuskill\\webapplication2\\webaplication2.data\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|solutionrelative:webaplication2.data\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\fuskill\\webapplication2\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|b:\\github\\fuskill\\webapplication2\\webaplication2.data\\migrations\\20240316155823_createprojectschemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|solutionrelative:webaplication2.data\\migrations\\20240316155823_createprojectschemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\fuskill\\webapplication2\\webapplication2\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|b:\\github\\fuskill\\webapplication2\\webaplication2.data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|solutionrelative:webaplication2.data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\fuskill\\webapplication2\\webapplication2\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|b:\\github\\fuskill\\webapplication2\\webaplication2.data\\migrations\\20240316154246_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|solutionrelative:webaplication2.data\\migrations\\20240316154246_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\fuskill\\webapplication2\\webapplication2\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\webapplication2\\webapplication2\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|b:\\github\\fuskill\\webapplication2\\webaplication2.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|solutionrelative:webaplication2.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\webapplication2\\webapplication2\\models\\userskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\fuskill\\webapplication2\\webapplication2\\models\\userskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\userskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\webapplication2\\webapplication2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\fuskill\\webapplication2\\webapplication2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\webapplication2\\webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\fuskill\\webapplication2\\webapplication2\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\fuskill\\webapplication2\\webapplication2\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52311649-341B-4601-B1C9-E1611AAC29AE}|WebAplication2.Services\\WebAplication2.Services.csproj|b:\\github\\fuskill\\fuskill\\webapplication2\\webaplication2.services\\dtos\\projectsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52311649-341B-4601-B1C9-E1611AAC29AE}|WebAplication2.Services\\WebAplication2.Services.csproj|solutionrelative:webaplication2.services\\dtos\\projectsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52311649-341B-4601-B1C9-E1611AAC29AE}|WebAplication2.Services\\WebAplication2.Services.csproj|b:\\github\\fuskill\\fuskill\\webapplication2\\webaplication2.services\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52311649-341B-4601-B1C9-E1611AAC29AE}|WebAplication2.Services\\WebAplication2.Services.csproj|solutionrelative:webaplication2.services\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|b:\\github\\fuskill\\fuskill\\webapplication2\\webaplication2.data\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|solutionrelative:webaplication2.data\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\fuskill\\webapplication2\\webapplication2\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\fuskill\\webapplication2\\webapplication2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\fuskill\\webapplication2\\webapplication2\\views\\home\\offer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\offer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|b:\\github\\fuskill\\fuskill\\webapplication2\\webaplication2.data\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|solutionrelative:webaplication2.data\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|b:\\github\\fuskill\\fuskill\\webapplication2\\webaplication2.data\\migrations\\20240316155823_createprojectschemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|solutionrelative:webaplication2.data\\migrations\\20240316155823_createprojectschemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|b:\\github\\fuskill\\fuskill\\webapplication2\\webaplication2.data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|solutionrelative:webaplication2.data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|b:\\github\\fuskill\\fuskill\\webapplication2\\webaplication2.data\\migrations\\20240316154246_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|solutionrelative:webaplication2.data\\migrations\\20240316154246_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|b:\\github\\fuskill\\fuskill\\webapplication2\\webaplication2.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0D9651-82F2-4374-8395-4EFDC7A6E5E4}|WebAplication2.Data\\WebAplication2.Data.csproj|solutionrelative:webaplication2.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|b:\\github\\fuskill\\fuskill\\webapplication2\\webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{525E7AE9-ADEA-45CA-BBE0-AD01F93DD8C2}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -118,262 +94,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProjectsDTO.cs",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Services\\DTOs\\ProjectsDTO.cs",
-              "RelativeDocumentMoniker": "WebAplication2.Services\\DTOs\\ProjectsDTO.cs",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Services\\DTOs\\ProjectsDTO.cs",
-              "RelativeToolTip": "WebAplication2.Services\\DTOs\\ProjectsDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T21:05:12.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BaseDTO.cs",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Services\\DTOs\\BaseDTO.cs",
-              "RelativeDocumentMoniker": "WebAplication2.Services\\DTOs\\BaseDTO.cs",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Services\\DTOs\\BaseDTO.cs",
-              "RelativeToolTip": "WebAplication2.Services\\DTOs\\BaseDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T21:05:11.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Level.cs",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Data\\Entities\\Level.cs",
-              "RelativeDocumentMoniker": "WebAplication2.Data\\Entities\\Level.cs",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Data\\Entities\\Level.cs",
-              "RelativeToolTip": "WebAplication2.Data\\Entities\\Level.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T21:05:06.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Data\\Entities\\Abstractions\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "WebAplication2.Data\\Entities\\Abstractions\\BaseEntity.cs",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Data\\Entities\\Abstractions\\BaseEntity.cs",
-              "RelativeToolTip": "WebAplication2.Data\\Entities\\Abstractions\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T21:05:04.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-29T21:04:47.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-29T21:04:45.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-29T21:04:44.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Project.cs",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Data\\Entities\\Project.cs",
-              "RelativeDocumentMoniker": "WebAplication2.Data\\Entities\\Project.cs",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Data\\Entities\\Project.cs",
-              "RelativeToolTip": "WebAplication2.Data\\Entities\\Project.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T20:54:55.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "ToolTip": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-25T14:36:33.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Search.cshtml",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Search.cshtml",
+              "DocumentMoniker": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Search.cshtml",
               "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Search.cshtml",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Search.cshtml",
+              "ToolTip": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Search.cshtml",
               "RelativeToolTip": "WebApplication2\\Views\\Home\\Search.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-07T16:59:56.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Register.cshtml",
+              "DocumentMoniker": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Register.cshtml",
               "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Register.cshtml",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Register.cshtml",
+              "ToolTip": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Register.cshtml",
               "RelativeToolTip": "WebApplication2\\Views\\Home\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-07T16:54:34.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Profile.cshtml",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Profile.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Profile.cshtml",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Profile.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Home\\Profile.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T17:18:32.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-29T21:04:30.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAAC0AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T16:26:06.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Skill.cs",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Data\\Entities\\Skill.cs",
-              "RelativeDocumentMoniker": "WebAplication2.Data\\Entities\\Skill.cs",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Data\\Entities\\Skill.cs",
-              "RelativeToolTip": "WebAplication2.Data\\Entities\\Skill.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T20:54:54.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "20240316155823_CreateProjectSchemas.cs",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Data\\Migrations\\20240316155823_CreateProjectSchemas.cs",
-              "RelativeDocumentMoniker": "WebAplication2.Data\\Migrations\\20240316155823_CreateProjectSchemas.cs",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Data\\Migrations\\20240316155823_CreateProjectSchemas.cs",
-              "RelativeToolTip": "WebAplication2.Data\\Migrations\\20240316155823_CreateProjectSchemas.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T20:55:01.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T16:52:36.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Data\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "WebAplication2.Data\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Data\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "WebAplication2.Data\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAMwBsAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T20:55:08.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "WebAplication2.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "WebAplication2.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T20:55:05.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Login.cshtml",
+              "DocumentMoniker": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Login.cshtml",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Login.cshtml",
+              "ToolTip": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Login.cshtml",
               "RelativeToolTip": "WebApplication2\\Views\\Home\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -382,61 +150,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Offer.cshtml",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Offer.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Offer.cshtml",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Offer.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Home\\Offer.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAuAAAA",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T17:20:25.589Z",
+              "WhenOpened": "2024-03-07T16:26:06.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "20240316154246_CreateIdentitySchema.cs",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Data\\Migrations\\20240316154246_CreateIdentitySchema.cs",
-              "RelativeDocumentMoniker": "WebAplication2.Data\\Migrations\\20240316154246_CreateIdentitySchema.cs",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Data\\Migrations\\20240316154246_CreateIdentitySchema.cs",
-              "RelativeToolTip": "WebAplication2.Data\\Migrations\\20240316154246_CreateIdentitySchema.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T20:54:42.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "User.cs",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Data\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "WebAplication2.Data\\Entities\\User.cs",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebAplication2.Data\\Entities\\User.cs",
-              "RelativeToolTip": "WebAplication2.Data\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T15:06:23.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Models\\ErrorViewModel.cs",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "WebApplication2\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T16:40:35.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 15,
               "Title": "Skill.cs",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Models\\Skill.cs",
+              "DocumentMoniker": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebAplication2.Data\\Entities\\Skill.cs",
+              "RelativeDocumentMoniker": "WebAplication2.Data\\Entities\\Skill.cs",
+              "ToolTip": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebAplication2.Data\\Entities\\Skill.cs",
+              "RelativeToolTip": "WebAplication2.Data\\Entities\\Skill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T20:54:54.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240316155823_CreateProjectSchemas.cs",
+              "DocumentMoniker": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebAplication2.Data\\Migrations\\20240316155823_CreateProjectSchemas.cs",
+              "RelativeDocumentMoniker": "WebAplication2.Data\\Migrations\\20240316155823_CreateProjectSchemas.cs",
+              "ToolTip": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebAplication2.Data\\Migrations\\20240316155823_CreateProjectSchemas.cs",
+              "RelativeToolTip": "WebAplication2.Data\\Migrations\\20240316155823_CreateProjectSchemas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T20:55:01.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T16:52:36.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Models\\Skill.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Models\\Skill.cs",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Models\\Skill.cs",
+              "ToolTip": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Models\\Skill.cs",
               "RelativeToolTip": "WebApplication2\\Models\\Skill.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAAAkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -445,27 +212,150 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UserSkill.cs",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Models\\UserSkill.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Models\\UserSkill.cs",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Models\\UserSkill.cs",
-              "RelativeToolTip": "WebApplication2\\Models\\UserSkill.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T16:45:05.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 6,
               "Title": "User.cs",
-              "DocumentMoniker": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Models\\User.cs",
+              "DocumentMoniker": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Models\\User.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Models\\User.cs",
-              "ToolTip": "B:\\GitHub\\FuSkill\\WebApplication2\\WebApplication2\\Models\\User.cs",
+              "ToolTip": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Models\\User.cs",
               "RelativeToolTip": "WebApplication2\\Models\\User.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T16:41:04.687Z"
+              "WhenOpened": "2024-03-07T16:41:04.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserSkill.cs",
+              "DocumentMoniker": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Models\\UserSkill.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\UserSkill.cs",
+              "ToolTip": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Models\\UserSkill.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\UserSkill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:45:05.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Profile.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Profile.cshtml",
+              "ToolTip": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Profile.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T17:18:32.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T21:04:30.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectsDTO.cs",
+              "DocumentMoniker": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebAplication2.Services\\DTOs\\ProjectsDTO.cs",
+              "RelativeDocumentMoniker": "WebAplication2.Services\\DTOs\\ProjectsDTO.cs",
+              "ToolTip": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebAplication2.Services\\DTOs\\ProjectsDTO.cs",
+              "RelativeToolTip": "WebAplication2.Services\\DTOs\\ProjectsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T21:05:12.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseDTO.cs",
+              "DocumentMoniker": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebAplication2.Services\\DTOs\\BaseDTO.cs",
+              "RelativeDocumentMoniker": "WebAplication2.Services\\DTOs\\BaseDTO.cs",
+              "ToolTip": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebAplication2.Services\\DTOs\\BaseDTO.cs",
+              "RelativeToolTip": "WebAplication2.Services\\DTOs\\BaseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T21:05:11.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebAplication2.Data\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebAplication2.Data\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebAplication2.Data\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebAplication2.Data\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAMwBsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T20:55:08.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebAplication2.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebAplication2.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebAplication2.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebAplication2.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T20:55:05.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Offer.cshtml",
+              "DocumentMoniker": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Offer.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Offer.cshtml",
+              "ToolTip": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Views\\Home\\Offer.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Offer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T17:20:25.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240316154246_CreateIdentitySchema.cs",
+              "DocumentMoniker": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebAplication2.Data\\Migrations\\20240316154246_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "WebAplication2.Data\\Migrations\\20240316154246_CreateIdentitySchema.cs",
+              "ToolTip": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebAplication2.Data\\Migrations\\20240316154246_CreateIdentitySchema.cs",
+              "RelativeToolTip": "WebAplication2.Data\\Migrations\\20240316154246_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T20:54:42.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebAplication2.Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "WebAplication2.Data\\Entities\\User.cs",
+              "ToolTip": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebAplication2.Data\\Entities\\User.cs",
+              "RelativeToolTip": "WebAplication2.Data\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:06:23.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "B:\\GitHub\\FuSkill\\FuSkill\\WebApplication2\\WebApplication2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:40:35.429Z"
             }
           ]
         }

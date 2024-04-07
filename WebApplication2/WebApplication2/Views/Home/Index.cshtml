@@ -3,7 +3,12 @@
 }
 
 <style>
-    
+    body {
+        background-image: url(https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?cs=srgb&dl=pexels-fauxels-3183150.jpg&fm=jpg);
+        background-size: cover; 
+        background-repeat: no-repeat; 
+        background-position: center; 
+    }
     .jumbotron {
         background-color: #f8f9fa;
         padding: 3rem;
@@ -23,12 +28,15 @@
         }
 
     .card-icon {
+
         font-size: 3rem;
         color: #007bff;
         margin-bottom: 1rem;
+         
     }
 
     .card-title {
+
         color: #333;
         font-size: 1.5rem;
         margin-bottom: 1rem;
@@ -41,6 +49,7 @@
     }
 
     .btn-primary {
+        
         background-color: #007bff;
         border-color: #007bff;
         border-radius:17px;
@@ -61,11 +70,11 @@
     <div class="row">
         <div class="col-md-4 mb-4">
             <div class="card h-100 shadow">
-                <div class="card-body text-center">
+                <div class="card-body text-center" >
                     <i class="fas fa-search card-icon"></i>
                     <h2 class="card-title">Search for People with Skills</h2>
                     <p class="card-text">Discover individuals who possess the skills you need for your projects.</p>
-                    <a href="@Url.Action("Search", "Search")" class="btn btn-primary">Start Searching</a>
+                    <a href="@Url.Action("Search")" class="btn btn-primary">Start Searching</a>
                 </div>
             </div>
         </div>
@@ -76,7 +85,7 @@
                     <i class="fas fa-users card-icon"></i>
                     <h2 class="card-title">Offer Your Skills</h2>
                     <p class="card-text">Showcase your expertise and offer your skills to others in need.</p>
-                    <a href="@Url.Action("Offer", "Offer")" class="btn btn-primary">Offer Your Skills</a>
+                    <a href="@Url.Action("Offer")" class="btn btn-primary">Offer Your Skills</a>
                 </div>
             </div>
         </div>
@@ -87,7 +96,7 @@
                     <i class="fas fa-user card-icon"></i>
                     <h2 class="card-title">View/Edit Profile</h2>
                     <p class="card-text">Manage your profile details and keep them up to date.</p>
-                    <a href="@Url.Action("Profile", "Profile")" class="btn btn-primary">View/Edit Profile</a>
+                    <a href="@Url.Action("Profile")" class="btn btn-primary">View/Edit Profile</a>
                 </div>
             </div>
         </div>
