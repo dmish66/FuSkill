@@ -12,8 +12,8 @@ using fuskill.Data;
 namespace fuskill.Data.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240409153724_CreateSchema")]
-    partial class CreateSchema
+    [Migration("20240410123938_Schema")]
+    partial class Schema
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

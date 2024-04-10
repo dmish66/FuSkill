@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace fuskill.Services.DTOs
 {
-    public class ProjectDTO : BaseDTO
+    public class ProjectCreateEditDTO: BaseDTO
     {
         public string Name { get; set; }
         public string Description { get; set; }
         public string PictureUrl { get; set; }
         public DateTime DueDate { get; set; }
-        public List<SkillDTO> Skills { get; set; }
+        public List<int> SkillsIds { get; set; }
     }
 }

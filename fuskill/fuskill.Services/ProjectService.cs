@@ -14,48 +14,51 @@ namespace fuskill.Services
 {   
     public class ProjectService : IProjectService
     {
-        private readonly ICrudRepository<Project> _repository;
-
+        private readonly ICrudRepository<Project> _projectRepository;
+        private readonly ICrudRepository<Skill> _skillRepository;
         private readonly IMapper _mapper;
-        public ProjectService(ICrudRepository<Project> repository, IMapper mapper)
+        public ProjectService(ICrudRepository<Project> projectRepository, ICrudRepository<Skill> skillRepository, IMapper mapper)
         {
-            _repository = repository;
+            _projectRepository = projectRepository;
+            _skillRepository = skillRepository;
             _mapper = mapper;
         }
         
-        public async Task AddProjectAsync(ProjectDTO model)
+        public async Task AddProjectAsync(ProjectCreateEditDTO model)
         {
             var project = _mapper.Map<Project>(model);
-            await _repository.AddAsync(project);
+            var skills = model.SkillsIds.Select(item => _skillRepository.GetByIdAsync(item).Result).ToList();
+            project.Skills = skills;
+            await _projectRepository.AddAsync(project);
         }
 
         public async Task DeleteProjectByIdAsync(int id)
         {
-            await _repository.DeleteByIdAsync(id);
+            await _projectRepository.DeleteByIdAsync(id);
         }
 
         public async Task<ProjectDTO> GetProjecsByIdAsync(int id)
         {
-            var project = await _repository.GetByIdAsync(id);
+            var project = await _projectRepository.GetByIdAsync(id);
             return _mapper.Map<ProjectDTO>(project);
         }
 
         public async Task<List<ProjectDTO>> GetProjectByNameAsync(string name)
         {
-            var projects = (await _repository.GetAllAsync()).ToList();
+            var projects = (await _projectRepository.GetAllAsync()).ToList();
             return _mapper.Map<List<ProjectDTO>>(projects);
         }
 
         public async Task<List<ProjectDTO>> GetProjectsAsync()
         {
-            var projects = (await _repository.GetAllAsync()).ToList();
+            var projects = (await _projectRepository.GetAllAsync()).ToList();
             return _mapper.Map<List<ProjectDTO>>(projects);
         }
 
-        public async Task UpdateProjectAsync(ProjectDTO model)
+        public async Task UpdateProjectAsync(ProjectCreateEditDTO model)
         {
             var project = _mapper.Map<Project>(model);
-            await _repository.UpdateAsync(project);
+            await _projectRepository.UpdateAsync(project);
         }
     }
 }

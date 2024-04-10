@@ -58,7 +58,7 @@ namespace fuskill.Web.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(ProjectDTO project)
+        public async Task<IActionResult> Create(ProjectCreateEditDTO project)
         {
             if (ModelState.IsValid)
             {
@@ -89,7 +89,7 @@ namespace fuskill.Web.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Name,Description,PictureUrl,DueDate,Id")] ProjectDTO project)
+        public async Task<IActionResult> Edit(int id, ProjectCreateEditDTO project)
         {
             if (id != project.Id)
             {

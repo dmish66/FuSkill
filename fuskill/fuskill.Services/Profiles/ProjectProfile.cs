@@ -11,19 +11,9 @@ namespace fuskill.Services.Profiles
 {
     public class ProjectProfile : Profile
     {
-        public ProjectProfile() { 
-            CreateMap<Project, ProjectDTO>().ForMember(dest => dest.SkillsIds, opt =>
-            {
-                opt.MapFrom(p => p.Skills.Select(item => item.Id).ToList());
-            }).ReverseMap();
-
-            CreateMap<ProjectDTO, Project>().ForMember(dest => dest.Skills, opt =>
-            {
-                opt.MapFrom(dto => dto.SkillsIds.Select(item => new Skill()
-                {
-                    Id = item
-                }).ToList()) ;
-            });
+        public ProjectProfile() {
+            CreateMap<Project, ProjectCreateEditDTO>().ReverseMap();
+            CreateMap<Project, ProjectDTO>().ReverseMap();
         }
     }
 }

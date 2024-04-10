@@ -34,6 +34,15 @@
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.DueDate)
         </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Skills)
+        </dt>
+        <dd class="col-sm-10">
+            @foreach (var item in Model.Skills)
+            {
+                <a asp-action="Details" asp-controller="Skills" asp-route-Id="@item.Id" class="nav-link">@item.Name</a>
+            }
+        </dd>
     </dl>
 </div>
 <div>
