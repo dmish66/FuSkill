@@ -76,11 +76,12 @@ namespace fuskill.Web.Controllers
                 return NotFound();
             }
 
-            var project = await _projectService.GetProjecsByIdAsync(id.Value);
+            var project = await _projectService.GetProjecsByIdEditAsync(id.Value);
             if (project == null)
             {
                 return NotFound();
             }
+            ViewBag.Skills = await _skillService.GetSkillsAsync();
             return View(project);
         }
 

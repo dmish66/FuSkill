@@ -9,6 +9,22 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
+<div class="d-flex flex-wrap justify-content-between">
+    @foreach (var item in Model)
+    {
+        <div class="card col-4 my-3 p-3 mx-3">
+            <div>
+                <img class ="img-thumbnail" src="@item.PictureUrl" alt="@item.Name">
+            </div>
+            <a class="nav-link" asp-action="Details" asp-route-id="@item.Id">@item.Name</a>
+            <div class="d-flex justify-content-around my-3">
+            <a class="btn-warning btn" asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+            <a class="btn-info btn" asp-action="Details" asp-route-id="@item.Id">Details</a> |
+            <a class="btn-danger btn" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </div>
+        </div>
+    }
+</div>
 <table class="table">
     <thead>
         <tr>

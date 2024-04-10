@@ -14,10 +14,10 @@ namespace fuskill.Services
 {   
     public class ProjectService : IProjectService
     {
-        private readonly ICrudRepository<Project> _projectRepository;
+        private readonly IProjectRepository _projectRepository;
         private readonly ICrudRepository<Skill> _skillRepository;
         private readonly IMapper _mapper;
-        public ProjectService(ICrudRepository<Project> projectRepository, ICrudRepository<Skill> skillRepository, IMapper mapper)
+        public ProjectService(IProjectRepository projectRepository, ICrudRepository<Skill> skillRepository, IMapper mapper)
         {
             _projectRepository = projectRepository;
             _skillRepository = skillRepository;
@@ -42,6 +42,11 @@ namespace fuskill.Services
             var project = await _projectRepository.GetByIdAsync(id);
             return _mapper.Map<ProjectDTO>(project);
         }
+        public async Task<ProjectCreateEditDTO> GetProjecsByIdEditAsync(int id)
+        {
+            var project = await _projectRepository.GetByIdAsync(id);
+            return _mapper.Map<ProjectCreateEditDTO>(project);
+        }
 
         public async Task<List<ProjectDTO>> GetProjectByNameAsync(string name)
         {
@@ -58,7 +63,9 @@ namespace fuskill.Services
         public async Task UpdateProjectAsync(ProjectCreateEditDTO model)
         {
             var project = _mapper.Map<Project>(model);
-            await _projectRepository.UpdateAsync(project);
+            var skills = model.SkillsIds.Select(item => _skillRepository.GetByIdAsync(item).Result).ToList();
+            project.Skills = skills;
+            await _projectRepository.UpdateProject(project);
         }
     }
 }
