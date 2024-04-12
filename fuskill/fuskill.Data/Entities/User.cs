@@ -15,8 +15,7 @@ namespace fuskill.Data.Entities
         }
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public string SkillId { get; set; }
-        public virtual Skill? Skill { get; set; }
+        public virtual ICollection<Skill>? Skills { get; set; }
         public virtual ICollection<Project>? Projects { get; set; }
     }
 }
