@@ -1,5 +1,4 @@
 using fuskill.Data;
-using fuskill.Data.Data;
 using fuskill.Data.Repositories;
 using fuskill.Data.Repositories.Abstractions;
 using fuskill.Services;

@@ -8,7 +8,7 @@ using fuskill.Data;
 
 #nullable disable
 
-namespace fuskill.Data.Data.Migrations
+namespace fuskill.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
     partial class ApplicationDbContextModelSnapshot : ModelSnapshot
@@ -244,6 +244,21 @@ namespace fuskill.Data.Data.Migrations
                     b.ToTable("ProjectUser");
                 });
 
+            modelBuilder.Entity("SkillUser", b =>
+                {
+                    b.Property<int>("SkillsId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("UsersId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("SkillsId", "UsersId");
+
+                    b.HasIndex("UsersId");
+
+                    b.ToTable("SkillUser");
+                });
+
             modelBuilder.Entity("fuskill.Data.Entities.Project", b =>
                 {
                     b.Property<int>("Id")
@@ -308,15 +323,6 @@ namespace fuskill.Data.Data.Migrations
                     b.Property<string>("LastName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("SkillId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int?>("SkillId1")
-                        .HasColumnType("int");
-
-                    b.HasIndex("SkillId1");
 
                     b.HasDiscriminator().HasValue("User");
                 });
@@ -387,6 +393,21 @@ namespace fuskill.Data.Data.Migrations
                         .IsRequired();
                 });
 
+            modelBuilder.Entity("SkillUser", b =>
+                {
+                    b.HasOne("fuskill.Data.Entities.Skill", null)
+                        .WithMany()
+                        .HasForeignKey("SkillsId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("fuskill.Data.Entities.User", null)
+                        .WithMany()
+                        .HasForeignKey("UsersId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
             modelBuilder.Entity("fuskill.Data.Entities.Skill", b =>
                 {
                     b.HasOne("fuskill.Data.Entities.Project", null)
@@ -394,23 +415,9 @@ namespace fuskill.Data.Data.Migrations
                         .HasForeignKey("ProjectId");
                 });
 
-            modelBuilder.Entity("fuskill.Data.Entities.User", b =>
-                {
-                    b.HasOne("fuskill.Data.Entities.Skill", "Skill")
-                        .WithMany("Users")
-                        .HasForeignKey("SkillId1");
-
-                    b.Navigation("Skill");
-                });
-
             modelBuilder.Entity("fuskill.Data.Entities.Project", b =>
                 {
                     b.Navigation("Skills");
-                });
-
-            modelBuilder.Entity("fuskill.Data.Entities.Skill", b =>
-                {
-                    b.Navigation("Users");
                 });
 #pragma warning restore 612, 618
         }
