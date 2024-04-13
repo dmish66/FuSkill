@@ -4,9 +4,9 @@
     ViewData["Title"] = "Create";
 }
 
-<h1>Create</h1>
+<h1>Create Skill</h1>
 
-<h4>Skill</h4>
+
 <hr />
 <div class="row">
     <div class="col-md-4">
@@ -24,13 +24,32 @@
             </div>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
+                <style>
+                    .btn-primary {
+                        background-color: #007bff;
+                        border-color: #007bff;
+                        border-radius: 17px;
+                        top: 30px;
+                    }
+                </style>
             </div>
         </form>
     </div>
 </div>
-
+<body>
+    <p style=></p>
+</body>
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Index" class="btn btn-primary">Back to List</a>
+
+    <style>
+        .btn-primary {
+            background-color: #007bff;
+            border-color: #007bff;
+            border-radius: 17px;
+            top: 30px;
+        }
+    </style>
 </div>
 
 @section Scripts {

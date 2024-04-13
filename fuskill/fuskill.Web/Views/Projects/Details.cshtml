@@ -46,6 +46,16 @@
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
-    <a asp-action="Index">Back to List</a>
+    
+
+    <a asp-action="Index" class="btn btn-primary">Back to List</a>
+
+    <style>
+        .btn-primary {
+            background-color: #007bff;
+            border-color: #007bff;
+            border-radius: 17px;
+            top: 30px;
+        }
+    </style>
 </div>
